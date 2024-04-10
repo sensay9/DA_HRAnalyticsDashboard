@@ -1,11 +1,11 @@
-# HR Analytics Dashboard
+# Human Resources Analytics Dashboard
 
 ![HR Analytics Dashboard](https://github.com/sensay9/DA_HRAnalyticsDashboard/assets/62778520/a29f17ef-00bd-4448-a1f0-7c1457d9f6f9)
 
 Welcome to the HR Analytics Dashboard project! This repository hosts an interactive dashboard designed to provide insights into HR metrics and employee attrition.</br>
 
 ## Overview
-The HR Analytics Dashboard offers key performance indicators (KPIs) related to employee count, attrition, attrition rate, average age of employees, average salary, and average years of employee attrition. Users can filter data by different departments, such as Human Resources, Research and Development, and Sales, to analyze trends and patterns within specific areas of the organization.</br>
+The Human Resources Analytics Dashboard offers key performance indicators (KPIs) related to employee count, attrition, attrition rate, average age of employees, average salary, and average years of employee attrition. Users can filter data by different departments, such as Human Resources, Research and Development, and Sales, to analyze trends and patterns within specific areas of the organization.</br>
 
 ## Features
 - **Employee Count**: Provides a snapshot of the total number of employees in the organization.</br>
