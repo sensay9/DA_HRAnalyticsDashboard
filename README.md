@@ -1,5 +1,7 @@
 # HR Analytics Dashboard
 
+![HR Analytics Dashboard](https://github.com/sensay9/DA_HRAnalyticsDashboard/assets/62778520/a29f17ef-00bd-4448-a1f0-7c1457d9f6f9)
+
 Welcome to the HR Analytics Dashboard project! This repository hosts an interactive dashboard designed to provide insights into HR metrics and employee attrition.</br>
 
 ## Overview
