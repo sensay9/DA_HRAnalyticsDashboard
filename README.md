@@ -20,12 +20,3 @@ The dashboard utilizes various data visualization techniques, including pie char
 
 ## Data Cleaning and Transformation</br>
 To ensure data accuracy and reliability, the project employs different processes for data cleaning and transformation. The Power Query Editor and DAX (Data Analysis Expressions) are utilized to clean, reshape, and enhance the raw data, ensuring that it is suitable for analysis and visualization.
-
-## Potential Data Analysis</br>
-In addition to the existing features, the HR Analytics Dashboard presents opportunities for further data analysis and exploration. Some potential analysis areas regarding employee attrition include:</br>
-- **Identifying Attrition Patterns**: Analyze historical attrition data to identify patterns or trends that may indicate factors contributing to employee turnover.</br>
-- **Attrition Prediction**: Build predictive models to forecast employee attrition based on various factors such as demographics, job satisfaction, and performance metrics.</br>
-- **Attrition by Department**: Explore attrition rates across different departments to understand variations and identify areas requiring attention or improvement.</br>
-- **Gender-Based Attrition Analysis**: Investigate attrition rates based on gender to uncover any disparities or challenges faced by specific demographic groups.</br>
-
-By leveraging these data analysis techniques, organizations can gain valuable insights into employee attrition patterns, enabling them to develop proactive strategies for talent retention and workforce management.
